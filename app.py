@@ -1,2 +1,4 @@
 # This is my first project
-print ("Hello World")
+count=5
+for i in count:
+    print (f"{i}:Hello World")
