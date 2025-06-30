@@ -3,4 +3,4 @@ if count <=5:
     for i in range(count):
         print(f"{i}: Hello World")
 else:
-    print (f"{count} is grater than 5")
+    print (f"{count} is greater than 5")
