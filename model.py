@@ -1,4 +1,4 @@
-print("This is the model file")
+
 from flask_sqlalchemy import SQLAlchemy
 db=SQLAlchemy()
 class Job(db.Model): # is class ma hum apna table create kar rai hian jis ma hum apna data paas karain ga 
